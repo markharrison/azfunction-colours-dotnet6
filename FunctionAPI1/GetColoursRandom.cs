@@ -27,9 +27,9 @@ namespace FunctionAPI1
 
             var colourItems = new List<ColoursItem>
             {
-                new ColoursItem { Id = 1, Name = "Yellow", Data = null },
+                new ColoursItem { Id = 1, Name = "Red", Data = null },
                 new ColoursItem { Id = 2, Name = "Black", Data = null },
-                new ColoursItem { Id = 3, Name = "Red", Data = null }
+                new ColoursItem { Id = 3, Name = "Yellow", Data = null }
             };
 
             Random r = new();
